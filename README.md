@@ -242,9 +242,9 @@ Si encuentras algún problema o tienes sugerencias:
 
 ## Proyectos destacados
 
-### 📦 IlaNami AD Guide - Guía interactiva de Pentesting para Active Directory
+### 📦 llaNami AD Guide - Guía interactiva de Pentesting para Active Directory
 <a href="https://ilanami.github.io/llaNami-ADGuide/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilanami&repo=IlaNami-ADGuide&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilanami&repo=llaNami-ADGuide&theme=radical" />
 </a>
 
 ### 📦 CTF Write-up Builder - Creador de Write-up interactivo
