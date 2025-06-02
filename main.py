@@ -41,8 +41,7 @@ class PasswordTool:
 1. Generar contraseña
 2. Analizar contraseña
 3. Análisis masivo
-4. Configuración
-5. Salir
+4. Salir
 {'─'*28}{Style.RESET_ALL}
         """
         print(menu)
@@ -258,8 +257,6 @@ class PasswordTool:
             elif choice == '3':
                 self.mass_analysis()
             elif choice == '4':
-                print(f"{Fore.YELLOW}⚙️  Configuración - Próximamente{Style.RESET_ALL}")
-            elif choice == '5':
                 print(f"{Fore.GREEN}👋 ¡Hasta luego! Mantente seguro.{Style.RESET_ALL}")
                 break
             else:
