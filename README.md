@@ -39,7 +39,7 @@ cd password-security-toolkit
 pip install -r requirements.txt
 ```
 
-## 🎯 Uso
+##  Uso
 
 ### Modo Interactivo
 ```bash
@@ -85,7 +85,7 @@ Recomendaciones:
 ### Contraseña Fuerte
 ```
 ─────────────────────────────────────────────
-┌─ ANÁLISIS DE CONTRASEÑA ─┐
+─ ANÁLISIS DE CONTRASEÑA ─ 
 │ Contraseña: Tr0ub4dor&3
 │ Longitud: 11 caracteres
 │ Puntuación: 88/100
@@ -209,22 +209,11 @@ password-tool/
 ├── requirements.txt  # Dependencias
 └── README.md        # Documentación
 ```
-
-## 🔮 Próximas Mejoras
-
-- [ ] Integración con API de Have I Been Pwned
-- [ ] Exportación de reportes en PDF/HTML
-- [ ] Soporte para múltiples idiomas
-- [ ] Análisis de políticas de contraseñas corporativas
-- [ ] Interfaz web con Flask
-- [ ] Generación de passphrases
-- [ ] Análisis de fortaleza en tiempo real
-
 ## 📜 Licencia
 
 Este proyecto es de código abierto y está disponible bajo la licencia MIT.
 
-## 👨‍💻 Autor
+## 👨‍💻 ILANA AMINOFF
 
 Desarrollado como parte del aprendizaje en Ciberseguridad y Hacking Ético.
 
