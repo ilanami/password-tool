@@ -2,7 +2,7 @@
 
 Una herramienta completa de ciberseguridad para generar y analizar contraseñas seguras, desarrollada como parte del estudio de Hacking Ético.
 
-## 🚀 Características
+##  📚 Características
 
 ### Generador de Contraseñas
 - ✅ Generación criptográficamente segura usando `secrets`
@@ -39,7 +39,7 @@ cd password-security-toolkit
 pip install -r requirements.txt
 ```
 
-##  Uso
+##  📚 Uso
 
 ### Modo Interactivo
 ```bash
@@ -237,3 +237,5 @@ Si encuentras algún problema o tienes sugerencias:
 ---
 
 **¡Recuerda: Una buena contraseña es tu primera línea de defensa! 🛡️**
+
+**👉 Sígueme para mas contenido de ciberseguridad y herramientas**
