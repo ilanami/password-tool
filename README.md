@@ -239,3 +239,17 @@ Si encuentras algún problema o tienes sugerencias:
 **¡Recuerda: Una buena contraseña es tu primera línea de defensa! 🛡️**
 
 **👉 Sígueme para mas contenido de ciberseguridad y herramientas**
+
+## Proyectos destacados
+
+<a href="https://ilanami.github.io/llaNami-ADGuide/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilanami&repo=IlaNami-ADGuide&theme=radical" />
+</a>
+
+<a href="https://github.com/ilanami/password-tool">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilanami&repo=password-tool&theme=radical" />
+</a>
+
+<a href="https://github.com/ilanami/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilanami&repo=portfolio&theme=radical" />
+</a>
