@@ -2,7 +2,7 @@
 
 Una herramienta completa de ciberseguridad para generar y analizar contraseñas seguras, desarrollada como parte del estudio de Hacking Ético.
 
-## 🚀 Características
+##  📚 Características
 
 ### Generador de Contraseñas
 - ✅ Generación criptográficamente segura usando `secrets`
@@ -39,7 +39,7 @@ cd password-security-toolkit
 pip install -r requirements.txt
 ```
 
-## 🎯 Uso
+##  📚 Uso
 
 ### Modo Interactivo
 ```bash
@@ -65,14 +65,15 @@ python main.py -a "MiContraseña123!"
 
 ### Contraseña Débil
 ```
-┌─ ANÁLISIS DE CONTRASEÑA ─┐
+───────────────────────────────────────────────────
+─ ANÁLISIS DE CONTRASEÑA ─
 │ Contraseña: 123456
 │ Longitud: 6 caracteres
 │ Puntuación: 5/100
 │ Fuerza: Muy Débil
 │ Entropía: 19.93 bits
 │ Tiempo estimado de cracking: Menos de 1 segundo
-└────────────────────────────┘
+───────────────────────────────────────────────────
 
 Recomendaciones:
   ❌ Muy corta. Usa al menos 8 caracteres.
@@ -83,14 +84,15 @@ Recomendaciones:
 
 ### Contraseña Fuerte
 ```
-┌─ ANÁLISIS DE CONTRASEÑA ─┐
+─────────────────────────────────────────────
+─ ANÁLISIS DE CONTRASEÑA ─ 
 │ Contraseña: Tr0ub4dor&3
 │ Longitud: 11 caracteres
 │ Puntuación: 88/100
 │ Fuerza: Muy Fuerte
 │ Entropía: 72.6 bits
 │ Tiempo estimado de cracking: Miles de años
-└────────────────────────────┘
+└────────────────────────────────────────────
 
 Recomendaciones:
   ✅ Longitud adecuada.
@@ -207,22 +209,11 @@ password-tool/
 ├── requirements.txt  # Dependencias
 └── README.md        # Documentación
 ```
-
-## 🔮 Próximas Mejoras
-
-- [ ] Integración con API de Have I Been Pwned
-- [ ] Exportación de reportes en PDF/HTML
-- [ ] Soporte para múltiples idiomas
-- [ ] Análisis de políticas de contraseñas corporativas
-- [ ] Interfaz web con Flask
-- [ ] Generación de passphrases
-- [ ] Análisis de fortaleza en tiempo real
-
 ## 📜 Licencia
 
 Este proyecto es de código abierto y está disponible bajo la licencia MIT.
 
-## 👨‍💻 Autor
+## 👨‍💻 ILANA AMINOFF
 
 Desarrollado como parte del aprendizaje en Ciberseguridad y Hacking Ético.
 
@@ -246,3 +237,5 @@ Si encuentras algún problema o tienes sugerencias:
 ---
 
 **¡Recuerda: Una buena contraseña es tu primera línea de defensa! 🛡️**
+
+**👉 Sígueme para mas contenido de ciberseguridad y herramientas**
