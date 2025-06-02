@@ -65,14 +65,15 @@ python main.py -a "MiContraseña123!"
 
 ### Contraseña Débil
 ```
-┌─ ANÁLISIS DE CONTRASEÑA ─┐
+───────────────────────────────────────────────────
+─ ANÁLISIS DE CONTRASEÑA ─
 │ Contraseña: 123456
 │ Longitud: 6 caracteres
 │ Puntuación: 5/100
 │ Fuerza: Muy Débil
 │ Entropía: 19.93 bits
 │ Tiempo estimado de cracking: Menos de 1 segundo
-└────────────────────────────┘
+───────────────────────────────────────────────────
 
 Recomendaciones:
   ❌ Muy corta. Usa al menos 8 caracteres.
@@ -83,6 +84,7 @@ Recomendaciones:
 
 ### Contraseña Fuerte
 ```
+─────────────────────────────────────────────
 ┌─ ANÁLISIS DE CONTRASEÑA ─┐
 │ Contraseña: Tr0ub4dor&3
 │ Longitud: 11 caracteres
@@ -90,7 +92,7 @@ Recomendaciones:
 │ Fuerza: Muy Fuerte
 │ Entropía: 72.6 bits
 │ Tiempo estimado de cracking: Miles de años
-└────────────────────────────┘
+└────────────────────────────────────────────
 
 Recomendaciones:
   ✅ Longitud adecuada.
